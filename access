@@ -1,4 +1,4 @@
-ssh -i chavedosucesso.pem ubuntu@ec2-54-175-195-195.compute-1.amazonaws.com
+ssh -i chavedosucesso.pem ubuntu@ec2-52.203.86.48.compute-1.amazonaws.com
 user: Thalyson
 Password: Almeida
 
