@@ -3,3 +3,9 @@ user: Thalyson
 Password: Almeida
 
 :)
+
+sudo rabbitmqctl add_user Thalyson Almeida 
+sudo rabbitmqctl set_user_tags Thalyson administrator
+sudo rabbitmqctl set_permissions -p / Thalyson ".*" ".*" ".*"
+
+:)
